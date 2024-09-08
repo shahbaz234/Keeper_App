@@ -1,8 +1,8 @@
 # Keeper_App
 
-#Used React to build and its methods to make a demo app for keeping notes.
+Keeper App is an attempt to make a google keep clone.
 
-The app is easy to naviagte and use. 
- This is a demo app like google keep for updating and sharing your thoughts on your local storage. 
- You can use this on your machine.
- 
+The dependencies and the UI has been made to quite a lot similar to google keep.
+
+Fun to use and feel free to fork and use this on your device.
+
